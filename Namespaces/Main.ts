@@ -1,4 +1,4 @@
-/// <reference path="./Namespace1.ts" />
+/// <reference path="./MyNameSpace.ts" />
 /// <reference path="./Namespace2.ts" />
 
 let truck = new MyNameSpace.Truck();
